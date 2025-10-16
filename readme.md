@@ -1,11 +1,9 @@
 # Raspberry Pi Live Temperature Monitor (with Max Tracking)
-
 This script provides a live, color-coded temperature dashboard to watch your Raspberry Pi from the comfort of your terminal. 
 
 - Adjust the SSH login (`pi@raspberrypi.local`) and
 - Modify the `sleep` interval (currently 5 seconds) as needed.t
-
-<img src="Raspberry%20Pi%20Live%20Temperature%20Monitor%20(with%20Max%20Tracking).webp" alt="Screenshot" width="30%"/>
+<img src="Raspberry%20Pi%20Live%20Temperature%20Monitor%20(with%20Max%20Tracking).webp" alt="Screenshot" width="40%"/>
 
 ## Features
 
