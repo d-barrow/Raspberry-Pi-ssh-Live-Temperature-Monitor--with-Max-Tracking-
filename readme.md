@@ -65,6 +65,7 @@ MON
 
 
 ## Version 2
+<img src="Raspberry%20Pi%20Live%20Temperature%20Monitor%20(with%20Max%20Tracking)-Version-2.webp" alt="Screenshot" width="100%"/>
 
 Drop this into your terminal, and hit enter:
 
