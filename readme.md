@@ -2,8 +2,7 @@
 
 This script provides a live, color-coded temperature dashboard to watch your Raspberry Pi from the comfort of your terminal. It is designed for quick diagnostics via SSH and does **not** write any files to disk.
 
-![Screenshot](Raspberry Pi Live Temperature Monitor (with Max Tracking).webp)
-
+![Screenshot](Raspberry%20Pi%20Live%20Temperature%20Monitor%20(with%20Max%20Tracking).webp)
 ## Features
 
 - **Live monitoring** of SoC and all thermal zones
