@@ -1,6 +1,6 @@
 # Raspberry Pi Live Temperature Monitor (with Max Tracking)
 
-This script provides a live, color-coded temperature dashboard for your Raspberry Pi, showing current and maximum temperatures for all available sensors. It is designed for quick diagnostics via SSH and does **not** write any files to disk.
+This script provides a live, color-coded temperature dashboard to watch your Raspberry Pi from the comfort of your terminal. It is designed for quick diagnostics via SSH and does **not** write any files to disk.
 
 
 
@@ -17,7 +17,7 @@ This script provides a live, color-coded temperature dashboard for your Raspberr
 From your Mac terminal, run:
 
 ```
-cat << 'MON' | ssh haraldgeisler@raspberrypi.local bash
+cat << 'MON' | ssh pi@raspberrypi.local bash
 export TERM=xterm
 # ANSI colors & thresholds
 R=$'\033[0;31m'; G=$'\033[0;32m'; Y=$'\033[0;33m'; C=$'\033[0;36m'; X=$'\033[0m'
