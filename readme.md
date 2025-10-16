@@ -69,7 +69,7 @@ MON
 Drop this into your terminal, and hit enter:
 
 ```
-cat << 'MON' | ssh haraldgeisler@raspberrypi.local bash
+cat << 'MON' | ssh pi@raspberrypi.local bash
 export TERM=xterm
 # ANSI colors & thresholds
 R=$'\033[0;31m'; G=$'\033[0;32m'; Y=$'\033[0;33m'; C=$'\033[0;36m'; X=$'\033[0m'
